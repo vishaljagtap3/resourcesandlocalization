@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Resources</string>
+    <color name="txtbgcolor">#DDFFEE</color>
+    <string name="welcome_message">Welcome!</string>
+    <string name="my_message">You are the Best!</string>
+
+    <dimen name="gen_text_size">15sp</dimen>
+    <dimen name="gen_width">400dp</dimen>
+    <dimen name="gen_height">200dp</dimen>
+
+    <bool name="is_password">false</bool>
+    <integer name="company_code">34120986</integer>
+
+    <array name="cities">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+    </array>
+
+    <array name="city_codes">
+        <item>411001</item>
+        <item>400001</item>
+        <item>100001</item>
+        <item>500001</item>
+    </array>
+</resources>
